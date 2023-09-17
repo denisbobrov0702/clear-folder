@@ -1,0 +1,9 @@
+Metadata-Version: 2.1
+Name: clean-folder
+Version: 0.0.3
+Summary: Program to rename and sorting files
+Home-page: https://github.com/denisbobrov0702/treatment
+Author: Denys Bobrov
+Author-email: denisbobrov0702@gmail.com
+License: MIT
+Requires-Dist: markdown
